@@ -43,8 +43,9 @@ python eval.py
 
 ## Results on JDSH
 
-| **MAP of Image to Text**              | **0.775** |
+| Categories                            | MAP       |
 | ------------------------------------- | --------- |
+| **MAP of Image to Text**              | **0.775** |
 | **MAP of Image to Image**             | **0.824** |
 | **MAP of Text to Image**              | **0.847** |
 | **MAP of Text to Text**               | **0.833** |
