@@ -1,6 +1,6 @@
 # PPCL
 
-PyTorch implementataion for [Proactive Privacy-preserving Learning for Cross-modal Retrieval](https://dl.acm.org/doi/full/10.1145/3545799)
+PyTorch implementaion for [Proactive Privacy-preserving Learning for Cross-modal Retrieval](https://dl.acm.org/doi/full/10.1145/3545799)
 
 
 
